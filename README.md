@@ -4,7 +4,6 @@
 <br/>
 [Edit here](https://diy-pwa.dev/~/gh/rhonelda/rhonelda.github.io)
 
-
 ## Video Describing A possible workflow for getting this on your own gh-pages.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cRsot8Qty4c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
