@@ -2,7 +2,7 @@
 <p>MD One page template is fully responsive and free to use. This HTML template is based on <a href="http://materializecss.com/" target="_blank">Materialize</a>, a CSS Framework based on Material Design.</p>
 <a href="http://rhildred.github.io/CP202Assignment5" target="_blank">View Demo</a>
 <br/>
-[Edit here](https://diy-pwa.dev/~/gh/rhonelda/rhonelda.github.io2)
+[Edit here](https://diy-pwa.dev/~/gh/rhonelda/rhonelda.github.io)
 
 ## Video Describing A possible workflow for getting this on your own gh-pages.
 
